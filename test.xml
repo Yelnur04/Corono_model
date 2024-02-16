@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kaspi_catalog xmlns="kaspiShopping" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="string" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+    <company>Kinderville</company>
+    <merchantid>Kinderville' UNION SELECT 112323</merchantid>
+    <offers>
+        <offer sku="12345678910123' UNION SELECT 112323123">
+            <model>123</model>
+            <brand>123</brand>
+            <availabilities>
+                <availability available="no" storeId="POS10913894"/>
+            </availabilities>
+            <price>123' UNION SELECT 123</price>
+        </offer>
+
+    </offers>
+</kaspi_catalog>
